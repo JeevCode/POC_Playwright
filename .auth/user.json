@@ -1,0 +1,49 @@
+{
+  "cookies": [
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "chvngneiwknt2s0cshojua2o",
+      "domain": "qa.talentoz.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".AspNet.Cookies",
+      "value": "chDbkmvq5MKEbcxoIMg47ti70bADjOrsGuYYYPkOgxiYOsaJhwG6D1zc7RQLCpWkktMkCN1hlYVeNzgU-P8HsicmRxohhnXZx38_jB_sFx-n6GkamS8SzOs-8np9f21aZg_Avg-kYEBw_QsCBx6RSimx4t0Kv42WGnIvxyYmygF9H1LRtTjS2eUKlNB9-Srg4TTHg76yZHTpGVKlTWs6cfmrc_bhHYL3_mootjBmlJR-iLbBZE5O6APJ9jTFU6deVXOu3TNlNQR-74oSY-3XkGpFEiDW9qKHXieEjUS3KUlChTXvJmtSz5asMWiKI8ubI8hWR8UEMlGQtvTXRbVRLpxWPsefzaNdxS6ZUIY4jOM",
+      "domain": "qa.talentoz.com",
+      "path": "/",
+      "expires": 1728580832.613861,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Talentoz",
+      "value": "0txPmIengAHhU5pyLWyl+d/5Uevnw90cLjWhXK83psdru5i9vuOhGPoW90ClgHv2stR8yGHo1i9msHSweqYBKb4FL/0XSXluetRAydBJZRxzQNK5q7BsAHcjQaEzczkIZAXPc1Nlyf+wgh/pDN0lEdC2pmkYt/kPa7MPlLq2xF0Zp+Jo3qz3k2Edu/xVGlyVmwHFb+sQtLa7kNqMiNv3vGnyCOqT0zhLYKOfHfSqI6z2lYJOb7bDcG5Ef1dDQuDWUjCtvcvLcRVvZQmgL4vceBLFEdRT4WDJYZiZ66MEOkdZdOgv2raenrKB3wHWDKT7NclENCc3AVLqzRZI4LOI/juwHpxn+Zk5kzCnYm8Wf7FdhHRP/HXunQ1P4R/PfclFkL4z4Zp6zZKvZ7VVriNWtI+eiALk3kR46TOeuuTxHzDyms0vg3IbIj1VZoGPqSpUTj3jr55BdcsIMHdX+Ue/9QTOvDxXFexHBySdENtTw6s+vBz0Xj4ozM5u6ZZgXv123m5GsmgTCeMdSxf6P1pdYz8o4jVcHrYYhla+1T/MIq5Dd1SlOCfgy6DWJv/ZmB9XsI0UYQYinZl96xDSd5ds++ry3GL/62vGS2dCwC0M30PBb4hn4WiN3LA3cJfVdfZnjB+bdouU/sgABNLoSqwnsEJKsNhp/e4+ZvRcYGn2iO5I17NjuYwM13X9iqrid+44JRcDqUN50IX6xxsIVQe5W3QKHg/ynpYCbVEN0+RMqgja8hEueSG147p2jC9255jTBcBfgGIEM3uY9Q/nxvPwLDzxYR3LiF5FXS2nnakOuy58QoYJel+6xqWiLWdd48RE2s+yvl7P1k/DQYI2MaE8G9BEgq42lhvZkiaBr2dKckZzdik3KE195qh+DW1TB9mGmjDNqtzwTLC2oZzjjt5qqNccBUS1pVd/YGk0mvNdv9KHO8rfdTp9jq2Gc8kKiGKh3DX1cEkxk9C6x+Y78gnTOjgQPGY249puc2c5WDuPcvk3lLr3QaKj+1omt4NBtYyOZ5uDarn+OXOJ1MiVStWfAQ==~Check",
+      "domain": "qa.talentoz.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://qa.talentoz.com",
+      "localStorage": [
+        {
+          "name": "CurrentAction",
+          "value": "ChangeLocation"
+        },
+        {
+          "name": "ChangeLocation",
+          "value": "https://qa.talentoz.com/Home.aspx?scsio=flWLeq4aav5JJgksvua3GQ==&cssi=ibqz8Ok5eF3aoTX3RAJRMA==&cipc=HBcpqmGiVpXpaCWz!inE_L1akGLQp6EnxQk!r7KnUU8=&ctryid=GGcF!V4bIkHP8Gqoth!CVw=="
+        }
+      ]
+    }
+  ]
+}
